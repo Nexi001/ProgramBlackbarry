@@ -1,0 +1,24 @@
+E:\sades\des\uc\Ucenje 4 semestar\Uop\Uopvezbeucenje\kupine\program_kupine\program_kupine\bin\Debug\program_kupine.exe.config
+E:\sades\des\uc\Ucenje 4 semestar\Uop\Uopvezbeucenje\kupine\program_kupine\program_kupine\bin\Debug\program_kupine.exe
+E:\sades\des\uc\Ucenje 4 semestar\Uop\Uopvezbeucenje\kupine\program_kupine\program_kupine\bin\Debug\program_kupine.pdb
+E:\sades\des\uc\Ucenje 4 semestar\Uop\Uopvezbeucenje\kupine\program_kupine\program_kupine\bin\Debug\program_kupine.xml
+E:\sades\des\uc\Ucenje 4 semestar\Uop\Uopvezbeucenje\kupine\program_kupine\program_kupine\obj\Debug\program_kupine.Form1.resources
+E:\sades\des\uc\Ucenje 4 semestar\Uop\Uopvezbeucenje\kupine\program_kupine\program_kupine\obj\Debug\program_kupine.Resources.resources
+E:\sades\des\uc\Ucenje 4 semestar\Uop\Uopvezbeucenje\kupine\program_kupine\program_kupine\obj\Debug\program_kupine.vbproj.GenerateResource.Cache
+E:\sades\des\uc\Ucenje 4 semestar\Uop\Uopvezbeucenje\kupine\program_kupine\program_kupine\obj\Debug\program_kupine.exe
+E:\sades\des\uc\Ucenje 4 semestar\Uop\Uopvezbeucenje\kupine\program_kupine\program_kupine\obj\Debug\program_kupine.xml
+E:\sades\des\uc\Ucenje 4 semestar\Uop\Uopvezbeucenje\kupine\program_kupine\program_kupine\obj\Debug\program_kupine.pdb
+E:\3disk\kupine\program_kupine\program_kupine\bin\Debug\program_kupine.exe.config
+E:\3disk\kupine\program_kupine\program_kupine\bin\Debug\program_kupine.exe
+E:\3disk\kupine\program_kupine\program_kupine\bin\Debug\program_kupine.pdb
+E:\3disk\kupine\program_kupine\program_kupine\bin\Debug\program_kupine.xml
+E:\3disk\kupine\program_kupine\program_kupine\obj\Debug\program_kupine.Form1.resources
+E:\3disk\kupine\program_kupine\program_kupine\obj\Debug\program_kupine.Resources.resources
+E:\3disk\kupine\program_kupine\program_kupine\obj\Debug\program_kupine.vbproj.GenerateResource.Cache
+E:\3disk\kupine\program_kupine\program_kupine\obj\Debug\program_kupine.exe
+E:\3disk\kupine\program_kupine\program_kupine\obj\Debug\program_kupine.xml
+E:\3disk\kupine\program_kupine\program_kupine\obj\Debug\program_kupine.pdb
+D:\sades\des\ucs\uc\Uop\Uopvezbeucenje\kupine programi\program2\kupine\program_kupine\program_kupine\bin\Debug\program_kupine.exe.config
+D:\sades\des\ucs\uc\Uop\Uopvezbeucenje\kupine programi\program2\kupine\program_kupine\program_kupine\obj\Debug\program_kupine.exe
+D:\sades\des\ucs\uc\Uop\Uopvezbeucenje\kupine programi\program2\kupine\program_kupine\program_kupine\obj\Debug\program_kupine.xml
+D:\sades\des\ucs\uc\Uop\Uopvezbeucenje\kupine programi\program2\kupine\program_kupine\program_kupine\obj\Debug\program_kupine.pdb
